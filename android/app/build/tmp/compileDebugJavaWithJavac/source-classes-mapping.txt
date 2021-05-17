@@ -1,0 +1,14 @@
+com/hovertakehomechallenge/MainActivity.java
+ com.hovertakehomechallenge.MainActivity
+com/hovertakehomechallenge/ReactNativeFlipper.java
+ com.hovertakehomechallenge.ReactNativeFlipper
+ com.hovertakehomechallenge.ReactNativeFlipper$1
+ com.hovertakehomechallenge.ReactNativeFlipper$2
+ com.hovertakehomechallenge.ReactNativeFlipper$2$1
+com/hovertakehomechallenge/MainApplication.java
+ com.hovertakehomechallenge.MainApplication
+ com.hovertakehomechallenge.MainApplication$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/hovertakehomechallenge/BuildConfig.java
+ com.hovertakehomechallenge.BuildConfig
